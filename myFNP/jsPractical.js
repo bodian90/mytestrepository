@@ -46,9 +46,23 @@
 // console.log(i);
 
 
-let arr = [1,15,4],
-i = arr.sort(compareNum);
-function compareNum(a,b){
-    return a - b;
-}
-console.log(arr);
+// let arr = [1,15,4],
+// i = arr.sort(compareNum);
+// function compareNum(a,b){
+//     return a - b;
+// }
+// console.log(arr);
+
+// let soldier = {
+//     health: 300,
+//     armor: 400
+// };
+
+// let tom = {
+//     health:200
+// };
+
+// tom.__proto__ = soldier;
+// console.log(tom);
+// console.log(tom.armor);
+
